@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3604a983-8056-480f-a3c1-b549c70ee811" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfBYX2SKw1Bd4eF7EMnJTABzKI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyFirstFizzbuzzTest.checkFizzBuzz">
+    <configuration name="MyFirstFizzbuzzTest.checkFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fizzbuzz2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFizzbuzz" />
+      <option name="MAIN_CLASS_NAME" value="TestFizzbuzz.MyFirstFizzbuzzTest" />
+      <option name="METHOD_NAME" value="checkFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstFizzbuzzTest.multipleOf3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fizzbuzz2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFizzbuzz" />
+      <option name="MAIN_CLASS_NAME" value="TestFizzbuzz.MyFirstFizzbuzzTest" />
+      <option name="METHOD_NAME" value="multipleOf3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstFizzbuzzTest.multipleOf5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fizzbuzz2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestFizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestFizzbuzz" />
+      <option name="MAIN_CLASS_NAME" value="TestFizzbuzz.MyFirstFizzbuzzTest" />
+      <option name="METHOD_NAME" value="multipleOf5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myFirstTest.ATEst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fizzbuzz2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myFirstTest" />
+      <option name="METHOD_NAME" value="ATEst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myFirstTest.ATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fizzbuzz2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myFirstTest" />
+      <option name="METHOD_NAME" value="ATest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyFirstFizzbuzzTest.checkFizzBuzz" />
+        <item itemvalue="JUnit.MyFirstFizzbuzzTest.multipleOf5" />
+        <item itemvalue="JUnit.MyFirstFizzbuzzTest.multipleOf3" />
+        <item itemvalue="JUnit.myFirstTest.ATest" />
+        <item itemvalue="JUnit.myFirstTest.ATEst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3604a983-8056-480f-a3c1-b549c70ee811" name="Default Changelist" comment="" />
+      <created>1581427316345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581427316345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1581429143846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1581429143846" />
+    <state x="557" y="171" key="#myFirstTest.ATest" timestamp="1581428013137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="171" key="#myFirstTest.ATest/0.0.1920.1040@0.0.1920.1040" timestamp="1581428013137" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1581430593200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581430593200" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1581430593199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581430593199" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1581430593199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581430593199" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1581430593200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581430593200" />
+  </component>
+</project>
